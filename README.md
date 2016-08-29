@@ -1,4 +1,4 @@
-# NodeJS API es2015
+# NodeJS API es2015 for Heroku
 
 [![Build Status](https://travis-ci.org/IgorVieira/nodejs_api.svg?branch=master)](https://travis-ci.org/IgorVieira/nodejs_api)
 

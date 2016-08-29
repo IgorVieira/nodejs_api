@@ -1,5 +1,5 @@
 import app from "./app"
-
-app.listen(app.get('port'), ()=>{
-  console.log('rodou!')
+const port = app.get('port')
+app.listen(port, ()=>{
+  console.log('server is running:'+ port)
 })

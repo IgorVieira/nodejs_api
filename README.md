@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/IgorVieira/nodejs_api.svg?branch=master)](https://travis-ci.org/IgorVieira/nodejs_api)
 
 
-# Usage
+## Usage
 
 ```
   git clone git@github.com:IgorVieira/nodejs_api.git
@@ -18,7 +18,7 @@
 
 Open in localhost:3000/books
 
-# Test
+## Test
 
 ```
   npm test

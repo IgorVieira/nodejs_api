@@ -10,7 +10,7 @@
   "engines": {
     "node": "4.5.0"
   },
-  "author": "",
+  "author": "Igor Vieira",
   "license": "ISC",
   "dependencies": {
     "babel": "^6.5.2",
